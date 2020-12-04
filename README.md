@@ -7,4 +7,8 @@
 ## Demonstration:<br>
  ### Sample Demonstration Images:<br>
  
- 
+ 1. Training of NLU model<br>
+   <img src="https://github.com/cipheraxat/Rasa-Chatbot/blob/main/Screenshot%20from%202020-12-04%2018-26-34.png"></img> <br>
+
+ 2. A glimpse of simple chatbot<br>
+   <img src="https://github.com/cipheraxat/Rasa-Chatbot/blob/main/Screenshot%20from%202020-12-04%2018-35-15.png"></img>
